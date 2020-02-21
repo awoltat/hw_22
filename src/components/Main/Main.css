@@ -1,0 +1,10 @@
+section {
+  display: flex;
+  justify-content: center;
+}
+section .main-container {
+  width: 80%;
+  background-color: #282c34;
+}
+
+/*# sourceMappingURL=Main.css.map */
